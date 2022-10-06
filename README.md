@@ -11,3 +11,7 @@ I hope to learn to master GitHub for all use.
 Haciendo el tp 7
 
 Ejercicio 1.
+
+Actividad numero 2.
+
+Generando una nueva rama.
